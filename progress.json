@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768825444.429714,
+    "completed_at": 1768825445.617322,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768822518.132922,
+    "completed_at": 1768822519.308817,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768822756.810688,
+    "completed_at": 1768822757.999464,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
